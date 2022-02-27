@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: italic small-caps bold,Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    color: #4287f5;
+    position: relative;
+    left: 550px;
+    top: 50px;
+}
+
+p{
+    font-size: 45px;
+    color: #10e677;
+    background-color: #1a2921;
+    width: 700px;
+    height: 200px;
+    position: relative;
+    left: 550px;
+    top: 85px;
+}
+
+button{
+    font-size: 50px;
+}
+
+#button2{
+    background-color: black;
+    color: #ffb340 !important;
+    font-weight: bold;
+    border-radius: 30px;
+    border-style:solid;
+    cursor: pointer;
+    position: relative;
+    left: 1250px;
+    top: 600px;
+    
+}
+
+body{
+    width: auto;
+    height: 100vh;
+    background-image: url(../img/sky.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    width: 1250px;
+    } 
+    
+button:hover span{
+        width: 100%;;
+    }
+    
+button:hover{
+        border: none;
+    }
+
+hr{
+        color: #EB69B8;
+        height: 1px;
+        border: none;
+        border-top: 2px solid;
+        position: relative;
+        left: 350px;
+        top: 50px;
+    }
+
+div{
+    position: relative;
+    left: 350px;
+    top: 100px;
+    width: 700px;
+    height: 500px;
+    border: solid #055eed;
+}
+
+#image{
+    width: 700px;
+    height: 500px;
+}
+
+
+
